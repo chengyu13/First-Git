@@ -6,4 +6,5 @@ My stubid boss still
 Creating a new branch is quich and simple.
 Test branch management.
 This is Dev branch.
+Test another type of merge.
 
